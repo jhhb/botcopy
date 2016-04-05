@@ -1,5 +1,9 @@
 # bot
 
+First project ever written in python (had little cs background at the time)
+
+
+
 Code that auto-tweets people filtering by locations and keywords.
 
 In order to start or restart the daemon (called supervisor) that runs the twitter bot:
